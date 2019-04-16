@@ -1,6 +1,8 @@
 # pythonTools-
 based on python3.6
 
+用于写一些python的小工具
+
 Step 1: 
 
         connect kafka
